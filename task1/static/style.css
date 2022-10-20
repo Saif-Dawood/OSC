@@ -1,0 +1,23 @@
+body
+{
+    margin: auto;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.Wow1
+{
+    background-color: red;
+    height: 100px;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+.Wow2
+{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+}
+img
+{
+    height: 75px;
+}
